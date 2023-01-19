@@ -17,3 +17,9 @@ Fork this repository and complete the following tasks:
 
 ### Subtask4
 - Extend this readme in your repository, explaining  how you completed the work in the various subtasks. 
+
+HOW I DID THIS?
+
+SUBTASK 1: Created a flask app by watching the playlist and rendered 2 basic HTML files.
+
+SUBTASK 2: Installed PostgreSQL in my pc and created a basic table and tried to fetch data from it.
